@@ -1,0 +1,1 @@
+{"type": "defense", "container": "pytorch/pytorch:latest", "container_gpu": "pytorch/pytorch:latest", "entry_point": "run_defense.sh"}
